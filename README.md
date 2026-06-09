@@ -69,5 +69,5 @@ public class TestResult {
 ```
 
 ## 3. Результат виконання програми
-
+![result](https://github.com/ppc-ntu-khpi/java-2-kkkseeekk/blob/master/result.png)
 
